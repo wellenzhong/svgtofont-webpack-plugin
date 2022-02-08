@@ -13,9 +13,28 @@
     "svgtofont",
     "svgtofont-webpack-plugin",
     "svg",
-    "font"
+    "font",
+    "webfont",
+    "fonticon",
+    "iconfont",
+    "font-face",
+    "svgttf",
+    "woff",
+    "eot",
+    "svgtofont",
+    "svg2font",
+    "svgtoicon",
+    "svg2iconfont",
+    "svgtoicon"
   ],
   "author": "wellenzhong",
+  "bugs": {
+    "url": "https://github.com/wellenzhong/svgtofont-webpack-plugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellenzhong/svgtofont-webpack-plugin.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.13"
