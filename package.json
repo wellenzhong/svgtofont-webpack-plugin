@@ -1,0 +1,27 @@
+{
+  "name": "svgtofont-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A webpack plugin to generate iconfont",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iconfont",
+    "webpack",
+    "plugin",
+    "svgtofont",
+    "svgtofont-webpack-plugin",
+    "svg",
+    "font"
+  ],
+  "author": "wellenzhong",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.13"
+  },
+  "dependencies": {
+    "svgtofont": "^3.14.0",
+    "webpack": "^5.67.0"
+  }
+}
