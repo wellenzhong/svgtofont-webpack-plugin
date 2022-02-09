@@ -2,7 +2,7 @@
  * @Author: wellen zhong
  * @Date: 2022-02-09 08:57:24
  * @LastEditors: wellen zhong
- * @LastEditTime: 2022-02-09 12:04:41
+ * @LastEditTime: 2022-02-09 15:19:45
  * @Description: file content
 -->
 # svgtofont-webpack-plugin
@@ -36,7 +36,7 @@ Please check this package  [svgtofont](https://www.npmjs.com/package/svgtofont) 
 First of all,You should install `svgtofont-webpack-plugin` in local enviroment via cli `npm link`.
 
 Secondly,if you need to test the plugin,you can use the example, also, you need to `npm link` in the example directory.
-and then you can run `npm run build` to test the plugin.
+and then you can run `npm run build:fonts` to test the plugin.
 
 ## Issues
 
