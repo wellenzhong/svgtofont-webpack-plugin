@@ -1,3 +1,10 @@
+/*
+ * @Author: wellen zhong
+ * @Date: 2022-02-09 08:57:24
+ * @LastEditors: wellen zhong
+ * @LastEditTime: 2022-02-09 14:25:31
+ * @Description: file content
+ */
 const SvgToFontPlugin = require('svgtofont-webpack-plugin').default;
 module.exports = {
     mode: 'development',

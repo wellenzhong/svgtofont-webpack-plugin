@@ -1,4 +1,4 @@
-import type webpack from 'webpack';
+import type webpack from "webpack";
 declare class Svg2Icon {
     options: any;
     constructor(options: any);

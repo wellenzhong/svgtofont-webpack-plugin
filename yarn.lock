@@ -538,7 +538,7 @@ cheerio-select@^1.5.0:
     domhandler "^4.2.0"
     domutils "^2.7.0"
 
-cheerio@1.0.0-rc.10:
+cheerio@1.0.0-rc.10, cheerio@v1.0.0-rc.10:
   version "1.0.0-rc.10"
   resolved "https://registry.npmmirror.com/cheerio/-/cheerio-1.0.0-rc.10.tgz#2ba3dcdfcc26e7956fc1f440e61d51c643379f3e"
   integrity sha512-g0J0q/O6mW8z5zxQ3A8E8J1hUgp4SMOvEoW/x84OwyHKe/Zccz83PVT4y5Crcr530FV6NgmKI1qvGTKVl9XXVw==
@@ -2308,6 +2308,13 @@ svgpath@^2.1.5:
   version "2.5.0"
   resolved "https://registry.npmmirror.com/svgpath/-/svgpath-2.5.0.tgz#d57434641d9aa9abae02a4038ebf281fa3005b10"
   integrity sha512-o/vohwqjUO9nDAh4rcjE3KaW/v//At8UJu2LJMybXidf5QLQLVA4bxH0//4YCsr+1H4Gw1Wi/Jc62ynzSBYidw==
+
+svgstore@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.npmmirror.com/svgstore/-/svgstore-3.0.1.tgz#de6e2eeabbf3da32004142b2289c8acc87e285ea"
+  integrity sha512-nL6WTxYnsVl3e0G/mwGEFSnPAWUrzIwHAPOwInD4QUuLDKxaKMnXduf0Ipw3m/g9AldPhp1Y8E/nkReFBukJrA==
+  dependencies:
+    cheerio v1.0.0-rc.10
 
 svgtofont@^3.14.0:
   version "3.14.0"

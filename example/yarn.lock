@@ -697,12 +697,8 @@
   "resolved" "file:.."
   "version" "1.0.0"
   dependencies:
-    "loader-utils" "^1.1.0"
-    "lodash" "^4.17.4"
-    "postcss" "^6.0.8"
-    "svg2ttf" "^4.1.0"
-    "svgicons2svgfont" "^6.0.0"
-    "ttf2woff" "^2.0.1"
+    "svgtofont" "^3.14.0"
+    "webpack" "^5.67.0"
 
 "tapable@^2.1.1", "tapable@^2.2.0":
   "integrity" "sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ=="
