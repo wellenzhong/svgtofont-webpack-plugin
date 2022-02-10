@@ -2,11 +2,11 @@
  * @Author: wellen zhong
  * @Date: 2022-02-09 08:57:24
  * @LastEditors: wellen zhong
- * @LastEditTime: 2022-02-09 15:19:45
+ * @LastEditTime: 2022-02-10 09:02:15
  * @Description: file content
 -->
 # svgtofont-webpack-plugin
-A webpack plugin for convert a folder with svg files to one font file. You can use the font as iconfont.
+A webpack plugin for converting svg files to one font file. You can use the font as iconfont.
 
 
 ## Install
